@@ -36,6 +36,12 @@ h1 {
   max-width: 400px;
 }
 
+.contact {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+
 .contact a {
 text-decoration: none;
 }
