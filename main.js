@@ -7,15 +7,13 @@ scene.add(camera);
 renderer.setSize(250, 250);
 $container.append(renderer.domElement);
 
-///////////////////////////////////////////////
-
 // Camera
 camera.position.z = 200;
 
 // Material
 var pinkMat = new THREE.MeshPhongMaterial({
   color: new THREE.Color("#fff"),
-  emissive: new THREE.Color("#000"),
+  emissive: new THREE.Color("#2b2b2b"),
   specular: new THREE.Color("#fff"),
   shininess: 100,
   shading: THREE.FlatShading,
@@ -53,3 +51,19 @@ function render() {
 }
 
 render();
+
+// function to set renderer size based on container width
+function setRendererSize() {
+  var containerWidth = $container.width();
+  renderer.setSize(containerWidth, containerWidth);
+}
+
+// call function on page load
+$(document).ready(function() {
+  setRendererSize();
+});
+
+// call function on window resize
+$(window).resize(function() {
+  setRendererSize();
+});
