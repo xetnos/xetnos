@@ -1,22 +1,50 @@
-## Hi there 👋
+<h1 align="center">Ned Pérez</h1>
+<p align="center"><em>Or Eduardo, or Nestor</em></p>
+<h3 align="center">Senior IT and Marketing Consultant</h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xetnos&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xetnos&langs_count=3&hide_title=true&hide_border=true" />
-</a>
-<!--
-**xetnos/xetnos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Building and helping create experiences and thoughtful products.<br />
+  Combining Data, Marketing, Design and Development worlds.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://xetnos.com/">Website</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/thenestorperez/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://x.com/xetnos">X</a> &nbsp;·&nbsp;
+  <a href="mailto:contact@xetnos.com">contact@xetnos.com</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Current projects
+
+- Developing strategic solutions as a **Senior Consultant** at [TAP CS](https://tapcs.net)
+- Executing strategies in Marketing as a **Marketing Specialist** at [Paktolus](https://www.paktolus.com/)
+
+**Active client work**
+
+- [edwardbeiner.com](https://edwardbeiner.com/) — 1M USD ARR — Marketing, Design, Research & Data + IT Ops
+- [bolttech.io](https://bolttech.io/) — 2B USD Valuation — Marketing, Design, Data & Research
+- [sothebysmotorsport.com](https://sothebysmotorsport.com/) — 30M USD Sales — Marketing + PM + IT Ops
+
+### Past work
+
+- Exploring product possibilities as an **Analyst** at [Bolder](https://bolder.cloud/)
+- Managing product occurrences as a **Product Manager** at [Bootic](https://bootic.io/)
+- Discovering and helping people as a **Product Analyst** at [Bootic](https://bootic.io/)
+- Supporting people as **Technical Support** at [Bootic](https://bootic.io/)
+- Telefonica, Health & Insurance & Financial Services companies, and more digital agencies
+
+### Skills
+
+Generalist. Product, Marketing, Operations. Data Analysis (SQL, Python, Looker),
+Roadmaps, UI / UX, Web Design & Development. AI-first workflow with Claude, OpenAI,
+ChatGPT, Gemini, and NotebookLLM. And Excel of course.
+
+---
+
+<p align="center">
+  <a href="https://xetnos.com/studies">📊 Explore my Data Stories →</a>
+</p>
+
+<p align="center"><em>Feel free to reach out.</em></p>
