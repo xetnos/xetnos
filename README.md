@@ -27,6 +27,14 @@
 - [bolttech.io](https://bolttech.io/) — 2B USD Valuation — Marketing, Design, Data & Research
 - [sothebysmotorsport.com](https://sothebysmotorsport.com/) — 30M USD Sales — Marketing + PM + IT Ops
 
+**Selected client work** (via [TAP CS](https://tapcs.net))
+
+- [David R. Custin & Associates](https://davidrcustin.com/): political & public-sector campaigns, Florida. Email & digital marketing, social ads, product integrations, and dev/marketing team coordination.
+- [FIU, Gordon Institute](https://gordoninstitute.fiu.edu/): statewide executive cybersecurity training. Awareness campaign, course materials, and communications.
+- [Teaching Digital Natives](https://www.teachingdigitalnatives.org/): district-level education. Content, creative, and communications.
+- Midwestern Auto Group (now The Wyler Collection): luxury automotive group, 500M USD acquisition in 2026. Email marketing, product integrations, and APIs.
+- [duPont REGISTRY Group](https://www.dupontregistry.com/): luxury automotive marketplace. Email marketing, communications, and integrations.
+
 ### Past work
 
 - Exploring product possibilities as an **Analyst** at [Bolder](https://bolder.cloud/)
